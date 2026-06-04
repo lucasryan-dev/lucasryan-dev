@@ -1,4 +1,4 @@
-# Olá, eu sou Lucas Ryan 👋
+# Olá, eu sou Lucas Ryan 
 
 Tenho 22 anos e sou estudante de Desenvolvimento de Software.
 
@@ -6,7 +6,7 @@ Comecei meus estudos com lógica de programação e algoritmos, depois passei pa
 
 Gosto de aprender na prática, desenvolvendo projetos para aplicar os conhecimentos que adquiro durante os estudos. Atualmente também estou estudando C#, banco de dados e conceitos de desenvolvimento de APIs.
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 <p align="left">
   <img alt="Java" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -38,7 +38,7 @@ Pretendo adicionar novos projetos conforme avanço nos estudos, principalmente u
 
 Meu objetivo é conquistar uma oportunidade de estágio na área de desenvolvimento de software, ganhar experiência prática e continuar evoluindo como desenvolvedor Back-end.
 
-## 📫 Contato
+##  Contato
 
 <p align="left">
   <a href="mailto:ryan.lucas03@gmail.com">
