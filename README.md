@@ -6,26 +6,17 @@ Comecei meus estudos com lógica de programação e algoritmos, depois passei pa
 
 Gosto de aprender na prática, desenvolvendo projetos para aplicar os conhecimentos que adquiro durante os estudos. Atualmente também estou estudando C#, banco de dados e conceitos de desenvolvimento de APIs.
 
-## Tecnologias que já utilizei
-
 ## 🚀 Tecnologias
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
-
-- Java
-- C#
-- JavaScript
-- HTML
-- CSS
-- SQL
-- Bootstrap
-- jQuery
-- Git e GitHub
+<p align="left">
+  <img alt="Java" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="C#" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="JavaScript" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="HTML5" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="MySQL" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Git" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
 
 ## Atualmente estudando
 
@@ -47,11 +38,18 @@ Pretendo adicionar novos projetos conforme avanço nos estudos, principalmente u
 
 Meu objetivo é conquistar uma oportunidade de estágio na área de desenvolvimento de software, ganhar experiência prática e continuar evoluindo como desenvolvedor Back-end.
 
-## Contato
+## 📫 Contato
 
-📍 Itapevi - SP
+<p align="left">
+  <a href="mailto:ryan.lucas03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-📧 ryan.lucas03@gmail.com
+  <a href="https://www.linkedin.com/in/lucas-ryan-cardoso-ribeiro-33848524b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-💼 LinkedIn:
-www.linkedin.com/in/lucas-ryan-cardoso-ribeiro-33848524b
+  <a href="https://github.com/lucasryan-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
