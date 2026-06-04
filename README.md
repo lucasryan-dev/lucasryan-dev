@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas Ryan 👋
 
-Tenho 22 anos e sou estudante de Desenvolvimento de Software e Segurança da Informação.
+Tenho 22 anos e sou estudante de Desenvolvimento de Software.
 
 Comecei meus estudos com lógica de programação e algoritmos, depois passei para o desenvolvimento web e atualmente estou focado em Back-end, com Java como principal objetivo de especialização.
 
