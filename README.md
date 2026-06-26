@@ -19,12 +19,6 @@ Estruturas de Dados
 APIs REST com .NET
 Banco de Dados relacional
 ---
- Projetos
- CRM Corporativo
-Sistema de gestão de relacionamento com clientes desenvolvido em .NET 8 e C#, com API REST, SQL Server e frontend em HTML, Bootstrap e jQuery.
-Sistema de Cadastro de Clientes
-Projeto desenvolvido para praticar HTML, Bootstrap, JavaScript e jQuery, com validações de formulário e manipulação dinâmica de dados.
----
  Objetivo
 Conquistar uma oportunidade de estágio em desenvolvimento de software, ganhar experiência prática e continuar evoluindo como desenvolvedor Back-end.
 ---
