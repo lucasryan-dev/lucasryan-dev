@@ -1,6 +1,6 @@
 Olá, eu sou Lucas Ryan 
 Tenho 22 anos e sou estudante de Desenvolvimento de Software com foco em Back-end.
-Gosto de aprender na prática, desenvolvendo projetos reais para consolidar os conhecimentos adquiridos nos estudos. Atualmente aprofundando em Java, C#, APIs REST e banco de dados.
+Gosto de aprender na prática, desenvolvendo projetos reais para consolidar os conhecimentos adquiridos nos estudos. Atualmente aprofundando em Java, APIs e banco de dados.
 ---
 Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -14,10 +14,10 @@ Tecnologias
 ---
  Atualmente estudando
 Programação Orientada a Objetos
-Desenvolvimento Back-end com Java e C#
+Desenvolvimento Back-end com Java 
 Estruturas de Dados
-APIs REST com .NET
-Banco de Dados relacional
+APIs 
+Banco de Dados 
 ---
  Objetivo
 Conquistar uma oportunidade de estágio em desenvolvimento de software, ganhar experiência prática e continuar evoluindo como desenvolvedor Back-end.
