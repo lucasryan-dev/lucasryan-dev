@@ -1,15 +1,32 @@
-Olá, eu sou Lucas Ryan 
-Tenho 22 anos e sou estudante de Desenvolvimento de Software com foco em Back-end.
-Gosto de aprender na prática, desenvolvendo projetos reais para consolidar os conhecimentos adquiridos nos estudos. Atualmente aprofundando em Java, APIs e banco de dados.
+# Olá, eu sou o Lucas Ryan 👋
+
+Desenvolvedor em formação, com foco em Backend Java.
+
+## 🎯 Foco atual
+
+Estou construindo uma base sólida em Java e nas tecnologias do ecossistema backend moderno, incluindo:
+
+- Lógica de programação e orientação a objetos
+- Spring Boot
+- Consumo e construção de APIs
+- Versionamento com Git
+- Testes de software
+
+Nas próximas etapas, o objetivo é avançar para APIs seguras, microsserviços, CI/CD, sistemas reativos e observabilidade.
+
+## 📌 Projetos em destaque
+
+- [`estudos-backend-java-alura`](https://github.com/lucasryan-dev/estudos-backend-java-alura) — repositório com os exercícios e projetos desenvolvidos ao longo dos meus estudos, organizados por semana.
+
+## 🛠️ Tecnologias
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📈 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasryan-dev&show_icons=true&theme=default)
+
 ---
-Tecnologias
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
----
- Objetivo
-Conquistar uma oportunidade de estágio em desenvolvimento de software, ganhar experiência prática e continuar evoluindo como desenvolvedor Back-end.
----
- Contato
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+
+*Documentando minha evolução como desenvolvedor, um commit de cada vez.*
