@@ -23,10 +23,6 @@ Nas próximas etapas, o objetivo é avançar para APIs seguras, microsserviços,
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📈 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasryan-dev&show_icons=true&theme=default)
-
 ---
 
 *Documentando minha evolução como desenvolvedor, um commit de cada vez.*
