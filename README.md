@@ -1,5 +1,5 @@
 
-# Lucas Ryan Cardoso Ribeiro
+# Lucas Ryan 
 
 `Backend Java Developer | Software Engineering Student`
 
