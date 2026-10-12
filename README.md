@@ -1,7 +1,7 @@
 
 # Lucas Ryan 
 
-`Backend Java Developer | Software Engineering Student`
+`Backend Java Developer | Computer Science Student`
 
 Desenvolvedor em formação, com foco em engenharia de software e desenvolvimento Backend Java. Atualmente, estou aprofundando meus conhecimentos em Java, Spring Boot, JPA, Hibernate e PostgreSQL, desenvolvendo APIs REST e aplicações que aplicam orientação a objetos, boas práticas de programação e persistência de dados.
 
